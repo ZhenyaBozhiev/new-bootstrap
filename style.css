@@ -1,0 +1,36 @@
+.container{
+  font-family: Arial;
+  letter-spacing: 3px;
+}
+
+.test{
+  height: 100px;
+
+}
+
+.aa{
+  border-radius: 10px;
+  background-color: red;
+}
+
+.bb{
+  background-color: black
+}
+
+.cc{
+  color: black;
+  background-color: yellow;
+}
+
+.dd{
+  color: black;
+  background-color: lightgrey;
+}
+
+.ee{
+background-color: GREY;
+}
+
+.ff{
+  background-color: green;
+}
